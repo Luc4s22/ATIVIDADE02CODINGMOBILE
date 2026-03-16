@@ -5,7 +5,7 @@ O objetivo deste projeto é mostrar como consumir uma **API pública** usando **
 
 ## Tecnologias
 - HTML / CSS / JavaScript (Front-end)  
-- API: thecocktaildb.com
+- API: https://www.thecocktaildb.com/api.php
 - Fetch API para requisições HTTP  
 - Netlify (deploy da aplicação)
 
