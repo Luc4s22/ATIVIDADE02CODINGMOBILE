@@ -16,7 +16,7 @@ O objetivo deste projeto é mostrar como consumir uma **API pública** usando **
 - Interface simples e interativa  
 
 ## Como Acessar
-A aplicação está online: [remarkable-halva-188e99.netlify.app](https://remarkable-halva-188e99.netlify.app)  
+A aplicação está online: (https://shiny-unicorn-b4257d.netlify.app/)
 
 ## Aprendizados
 - Consumir APIs públicas e trabalhar com JSON  
